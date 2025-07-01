@@ -5,6 +5,5 @@
   BlaAHmir
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=blahmir&color=brightgreen">
-    
-  Learning to Code or Coding to Learn?</p>
+
 </h2>
